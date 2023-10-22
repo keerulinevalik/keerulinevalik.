@@ -5,11 +5,10 @@
 </head>
 <body>
     <h1>Tere, sügis!</h1>
-    <img src="https://example.com/sugispilt.jpg" alt="Sügisene vaade" width="300" height="200">
+    <img src="https://osta.img-bcg.eu/item/13/6975/45756975.jpg" alt="Head suusad" width="300" height="200">
     <p>
-        Sügis on imeline aastaaeg, mil loodus võtab enda kanda punakad ja kollakad toonid.
-        Lehed langevad puudelt, looduse vaikus on võimas ning hommikud on jahedad.
-        Mina, tudengina, naudin sügist õppimise ja looduses jalutamise võimaluste rohkuse tõttu.
+        Sügis on tore aeg. Kõik on värviline ja ilus. Varsti tuleb tali ja saab välja otsida suusad. Soovitavalt siis Visud.
+        Nende Fisheritega pole midagi peale hakata.
     </p>
     <table>
         <tr>
@@ -26,10 +25,10 @@
         </tr>
     </table>
     <p>
-        Minu tudengikood: 233013
+        Minu tudengikood on 233013
     </p>
     <p>
-        Vaata rohkem sügise ilu <a href="https://taltech.ee/">TalTech'i kodulehelt</a>.
+        Palju põnevat ka <a href="https://taltech.ee/">TalTech'i kodulehelt</a>.
     </p>
 </body>
 </html>
